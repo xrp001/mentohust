@@ -278,5 +278,7 @@ scp /F:/desktop/vps/k2/mentohust pandora:/bin
 - 源自恩山
 
   ![ScreenClip(7).png](https://github.com/tkkcc/mentohust/blob/master/include/213.jpg?raw=true)
+  
+  [PandoraBox下载地址更新](https://www.right.com.cn/forum/thread-331760-1-1.html)
 
 
